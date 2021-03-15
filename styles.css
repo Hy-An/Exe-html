@@ -1,0 +1,102 @@
+
+.red-text{
+color:red;
+}
+
+.black-background{
+background-color: black;
+}
+
+.color-link a{
+    Color:red;
+    Text-decoration:none;
+    }
+   
+.flex-this {
+    display: flex;
+    margin: auto;
+    align-items: flex-start;
+    padding: 5px;
+    font-size: 15px;
+}
+.news{
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 3px 3px 4px red;
+}
+.title{
+    margin: auto;
+    position: relative;
+    bottom: 230px;
+    text-shadow: 3px 3px 4px red;
+    text-align: center;
+    font-size: 50px;
+}
+.block-text{
+    display: inline-block;
+    margin: auto;
+    width: 287px;
+    height: 27px;
+    border: 1px solid blue;
+    background-color: white;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.user{
+    position: relative;
+    margin-top: 100px;
+    width: 170px;
+    background-color: lightslategray;
+    color:black;
+    font-style: oblique;
+    border: 1px solid blue;
+    box-shadow: 10px 5px 5px blue;
+    border-radius: 4px;
+}
+
+.footer{
+    width: 170px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.sinopsis{
+    position: relative;
+    top: 40px;
+    left: 40px;
+    font-size: 14px;
+    font-display: auto;
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    margin: 10px;
+}
+
+.gif{
+    display: flex;
+    position: absolute;
+    left: 620px;
+    top: 900px;
+    align-items: flex-start;
+    margin: 10px;
+}
+.gif2{ 
+    display: flex;
+    position: absolute;
+    left: 895px;
+    top: 650px;
+    align-items: flex-start;
+    margin: 10px;
+}
+.clip{ 
+    display: flex;
+    position: absolute;
+    left: 320px;
+    top: 880px;
+    align-items: flex-start;
+    margin: 10px;
+}
