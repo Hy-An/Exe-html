@@ -51,8 +51,8 @@ color:#ff0000;
     background-color: #778899;
     color:black;
     font-style: oblique;
-    border: 1px solid b#0000ff;
-    box-shadow: 10px 5px 5px b#0000ff;
+    border: 1px solid #0000ff;
+    box-shadow: 10px 5px 5px #0000ff;
     border-radius: 4px;
 }
 
@@ -60,7 +60,7 @@ color:#ff0000;
     width: 170px;
     border: 1px solid #0000ff;
     border-radius: 10px;
-    background-color: w#ffff;
+    background-color: #ffff;
     text-align: center;
 }
 
