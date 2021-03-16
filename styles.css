@@ -1,15 +1,15 @@
 
 .red-text{
-color:red;
+color:#ff0000;
 }
 
 .black-background{
-background-color: black;
-}
+                 background-color: #000000;
+                    }
 
 .color-link a{
-    Color:red;
-    Text-decoration:none;
+    color:#ff0000;
+    text-decoration:none;
     }
    
 .flex-this {
@@ -23,13 +23,13 @@ background-color: black;
     margin: auto;
     text-align: center;
     font-size: 30px;
-    text-shadow: 3px 3px 4px red;
+    text-shadow: 3px 3px 4px #ff0000;
 }
 .title{
     margin: auto;
     position: relative;
     bottom: 230px;
-    text-shadow: 3px 3px 4px red;
+    text-shadow: 3px 3px 4px #ff0000;
     text-align: center;
     font-size: 50px;
 }
@@ -38,8 +38,8 @@ background-color: black;
     margin: auto;
     width: 287px;
     height: 27px;
-    border: 1px solid blue;
-    background-color: white;
+    border: 1px solid #0000ff;
+    background-color: #ffff;
     text-align: center;
     border-radius: 4px;
 }
@@ -48,19 +48,19 @@ background-color: black;
     position: relative;
     margin-top: 100px;
     width: 170px;
-    background-color: lightslategray;
+    background-color: #778899;
     color:black;
     font-style: oblique;
-    border: 1px solid blue;
-    box-shadow: 10px 5px 5px blue;
+    border: 1px solid b#0000ff;
+    box-shadow: 10px 5px 5px b#0000ff;
     border-radius: 4px;
 }
 
 .footer{
     width: 170px;
-    border: 1px solid blue;
+    border: 1px solid #0000ff;
     border-radius: 10px;
-    background-color: white;
+    background-color: w#ffff;
     text-align: center;
 }
 
