@@ -1,6 +1,6 @@
 
 .red-text{
-color:#ff0000;
+color:#FF0000;
 }
 
 .black-background{
@@ -8,7 +8,7 @@ color:#ff0000;
                     }
 
 .color-link a{
-    color:#ff0000;
+    color:#FF0000;
     text-decoration:none;
     }
    
@@ -23,13 +23,13 @@ color:#ff0000;
     margin: auto;
     text-align: center;
     font-size: 30px;
-    text-shadow: 3px 3px 4px #ff0000;
+    text-shadow: 3px 3px 4px #FF0000;
 }
 .title{
     margin: auto;
     position: relative;
     bottom: 230px;
-    text-shadow: 3px 3px 4px #ff0000;
+    text-shadow: 3px 3px 4px #FF0000;
     text-align: center;
     font-size: 50px;
 }
@@ -38,8 +38,8 @@ color:#ff0000;
     margin: auto;
     width: 287px;
     height: 27px;
-    border: 1px solid #0000ff;
-    background-color: #ffff;
+    border: 1px solid #0000FF;
+    background-color: #FFF;
     text-align: center;
     border-radius: 4px;
 }
@@ -48,19 +48,19 @@ color:#ff0000;
     position: relative;
     margin-top: 100px;
     width: 170px;
-    background-color: #778899;
+    background-color: #789;
     color:black;
     font-style: oblique;
-    border: 1px solid b#0000ff;
-    box-shadow: 10px 5px 5px b#0000ff;
+    border: 1px solid #0000FF;
+    box-shadow: 10px 5px 5px #0000FF;
     border-radius: 4px;
 }
 
 .footer{
     width: 170px;
-    border: 1px solid #0000ff;
+    border: 1px solid #0000FF;
     border-radius: 10px;
-    background-color: w#ffff;
+    background-color: #FFFF;
     text-align: center;
 }
 
