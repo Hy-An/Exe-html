@@ -4,12 +4,12 @@ color:#ff0000;
 }
 
 .black-background{
-background-color: #000000;
-}
+                 background-color: #000000;
+                    }
 
 .color-link a{
     color:#ff0000;
-    Text-decoration:none;
+    text-decoration:none;
     }
    
 .flex-this {
@@ -23,13 +23,13 @@ background-color: #000000;
     margin: auto;
     text-align: center;
     font-size: 30px;
-    text-shadow: 3px 3px 4px r#ff0000;
+    text-shadow: 3px 3px 4px #ff0000;
 }
 .title{
     margin: auto;
     position: relative;
     bottom: 230px;
-    text-shadow: 3px 3px 4px r#ff0000;
+    text-shadow: 3px 3px 4px #ff0000;
     text-align: center;
     font-size: 50px;
 }
